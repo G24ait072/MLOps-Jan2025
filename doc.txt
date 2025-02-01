@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Completely replaced content in g24ait071 branch
+=======
+Modified content in g24ait073 branch
+>>>>>>> g24ait073
